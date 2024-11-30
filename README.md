@@ -2,7 +2,7 @@
 🏭 XFACTORY project is almost completed.  🏭
 
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![final view1](https://github.com/user-attachments/assets/c4dae61e-922a-43b9-91cd-3e60604385ac)
 
 
 
