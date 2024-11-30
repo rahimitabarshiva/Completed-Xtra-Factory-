@@ -3,7 +3,7 @@
 
 
 ![final view1](https://github.com/user-attachments/assets/c4dae61e-922a-43b9-91cd-3e60604385ac)
-
+![final view last](https://github.com/user-attachments/assets/5fb3f9a6-3b9a-42a2-8f32-1c23bcb8c052)
 
 
 - [Demo Project](https://rahimitabarshiva.github.io/Completed-Xtra-Factory-/)
